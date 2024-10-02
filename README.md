@@ -1,5 +1,3 @@
 # hello-world
 
-Hi World,
-
-This is me following the tutorial on how to use Github.
+I used this repository to learn how to implement machine learning models via python
